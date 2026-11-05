@@ -1,4 +1,4 @@
    Project Title: Student Library Portal
    Team Members: sumayya raja and areeba sajid
-   Course: SCM Lab
+   Course: Software configuration managemnet
    Status: In Progress
