@@ -1,4 +1,4 @@
-   Project Title: Untitled
+   Project Title: Student Portal
    Team Members: sumayya raja ,areeba sajid
    Course: SCM Lab
-  Status: In Progress
+   Status: In Progress
