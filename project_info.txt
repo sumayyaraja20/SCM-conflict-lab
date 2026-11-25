@@ -1,4 +1,4 @@
-Project Title: Untitled
+Project Title: Library System
 Team Members: TBD
 Course: SCM Lab
 Status: Draft
