@@ -1,4 +1,4 @@
 Project Title: Student Library Portal
 Team Members: Sumayya Raja and Sara
-Course: SCM Lab
+Course: SCM Lab 7
 Status: In Progress
